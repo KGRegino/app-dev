@@ -21,4 +21,9 @@ My first repository
 - [x] Smart legal drama  
 - [x] Strong character development  
 - [x] Witty and intense dialogue  
-- [ ] Could use a spinoff 👀  
+- [ ] Could use a spinoff 👀
+
+**Catchy lines**
+"I don’t play the odds, I play the man." – Harvey Specter
+"Sometimes caring hurts, and that doesn’t mean you stop." – Mike Ross
+"You just got Litt up!" – Louis Litt
